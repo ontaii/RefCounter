@@ -1,0 +1,67 @@
+1. Wang,Chao,JianzhongZhou,PengLu,andLiuYuan.
+ "Long-termschedulingoflargecascadehydropowerstationsin
+ JinshaRiver,China."EnergyConversionandManagement90
+ (2015):476-487.
+ 2. Lewin,Jack,GeoffreyBallard,andDavidS.Bowles."Spillway
+ gatereliabilityinthecontextofoveralldamfailurerisk."USSD
+ AnnualLecture(2003):1-17.
+ 3. Chauhan,SanjayS.,andDavidS.Bowles."Damsafetyrisk
+ assessmentwithuncertaintyanalysis."AncoldBulletin(2004):
+ 73-88.
+ 4. Zare,Masoud,FloridaNasategay,JoseA.Gomez,Arsham
+ MoayediFar,andJavadSattarvand."Areviewoftailingsdam
+ safetymonitoringguidelinesandsystems."Minerals14,no.6
+ (2024):551.
+ 5. Huang,Luofeng,YuzhuLi,DanielaBenites-Munoz,Christian
+ WindtWindt,AnnaFeichtner,SasanTavakoli,JoshDavidsonet
+ al."Areviewonthemodellingofwave-structureinteractions
+ basedonOpenFOAM."OpenFOAM®Journal2(2022):
+ 116-142.
+ 6. Troin,Magali,RichardArsenault,AndrewW.Wood,François
+ Brissette,andJean‐LucMartel."Generatingensemble
+ streamflowforecasts:Areviewofmethodsandapproachesover
+ thepast40years."(2021):e2020WR028392.
+ 7. Echard,Benjamin,NicolasGayton,andMauriceLemaire.
+ "AK-MCS:anactivelearningreliabilitymethodcombining
+ KrigingandMonteCarlosimulation."Structuralsafety33,no.2
+ (2011):145-154.
+ 8. Low,B.K."FORM,SORM,andspatialmodelingin
+ geotechnicalengineering."StructuralSafety49(2014):56-64.
+ 9. Breitung,Karl."Thereturnofthedesignpoints."Reliability
+ Engineering&SystemSafety247(2024):110103.
+ 10. Xing,Yue,TonySit,andHoiYingWong."Variancereduction
+ forriskmeasureswithimportancesamplinginnested
+ simulation."QuantitativeFinance22,no.4(2022):657-673.
+ 11. Zhang,StevenE.,GlenT.Nwaila,LeonTolmay,HartwigE.
+ Frimmel,andJulieE.Bourdeau."Integrationofmachine
+ learningalgorithmswithGompertzCurvesandKrigingto
+ estimateresourcesingolddeposits."NaturalResources
+ Research30,no.1(2021):39-56.
+ 12. Marrel,Amandine,andBertrandIooss."Probabilisticsurrogate
+ modelingbyGaussianprocess:Areviewonrecentinsightsin
+ estimationandvalidation."ReliabilityEngineering&System
+ Safety(2024):110094.
+ 13. Meinert,Nis,JakobGawlikowski,andAlexanderLavin."The
+ unreasonableeffectivenessofdeepevidentialregression."In
+ ProceedingsoftheAAAIConferenceonArtificialIntelligence,
+ vol.37,no.8,pp.9134-9142.2023.
+ 14. Tripathy,RohitK.,andIliasBilionis."DeepUQ:Learningdeep
+ neuralnetworksurrogatemodelsforhighdimensional
+ uncertaintyquantification."Journalofcomputationalphysics
+ 375(2018):565-588.
+ 15. Wu,Hao,JonasKöhler,andFrankNoé."Stochasticnormalizing
+ flows."Advancesinneuralinformationprocessingsystems33
+ (2020):5933-5944.
+ 16. Guo,Tiexin,HongjiWang,JinglaiLi,andHongqiaoWang.
+ "Sampling-basedadaptivedesignstrategyforfailureprobability
+ estimation."ReliabilityEngineering&SystemSafety241
+ (2024):109664.
+ 17. Constante-Amores,C.Ricardo,AlecJ.Linot,andMichaelD.
+ Graham."Dynamicsofadata-drivenlow-dimensionalmodelof
+ turbulentminimalpipeflow."arXivpreprintarXiv:2408.03135
+ (2024).
+ 18. Kingma,DiederikP.,andMaxWelling.Auto-encoding
+ variationalbayes.2013.
+ 19. Kinga,Diederik,andJimmyBaAdam."Amethodforstochastic
+ optimization."InInternationalconferenceonlearning
+ representations(ICLR),vol.5,no.6.2015.
